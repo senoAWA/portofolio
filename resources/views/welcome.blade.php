@@ -70,7 +70,7 @@
             </p>
 
             <div class="flex flex-wrap items-center gap-4 sm:gap-6 mt-8 md:mt-12">
-                <a href="#"
+                <a href="https://drive.google.com/file/d/1XSED0TQv0zD3AXsc-c3Ondoy9FQQ9f4E/view?usp=drive_link"
                     class="w-full sm:w-auto text-center bg-zinc-900 dark:bg-neutral-100 text-white dark:text-zinc-950 hover:bg-zinc-800 dark:hover:bg-white px-6 py-3 rounded-xl font-semibold text-sm transition-all duration-200 shadow-sm hover:shadow active:scale-[0.98]">
                     View CV
                 </a>
